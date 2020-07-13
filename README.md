@@ -9,4 +9,5 @@ Before you asking around and ask yourself questions, pay attention to the follow
 ## Packages
 The only thing you need to install with NPM is the **mysql** package. You can download this with:
 > npm install mysql
+
 **Documentation:** https://www.npmjs.com/package/mysql
