@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-mysql",
+  "version": "1.0.0",
+  "description": "An example for using MySQL in a NodeJS appliccation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalloSouf/NodeJS-MySQL.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "example"
+  ],
+  "author": "HalloSouf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HalloSouf/NodeJS-MySQL/issues"
+  },
+  "homepage": "https://github.com/HalloSouf/NodeJS-MySQL#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
